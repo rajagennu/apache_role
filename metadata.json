@@ -1,0 +1,15 @@
+{
+  "name": "raja-role_apache",
+  "version": "0.1.0",
+  "author": "raja",
+  "summary": "A simple apache for my practice",
+  "license": "Apache-2.0",
+  "source": "https://github.com/rajagennu/apache_role",
+  "project_page": "https://github.com/rajagennu/apache_role",
+  "issues_url": "https://github.com/rajagennu/apache_role/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
